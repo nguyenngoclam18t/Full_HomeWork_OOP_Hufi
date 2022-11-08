@@ -1,0 +1,14 @@
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\bin\Debug\netcoreapp3.1\tiet6.exe
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\bin\Debug\netcoreapp3.1\tiet6.deps.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\bin\Debug\netcoreapp3.1\tiet6.runtimeconfig.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\bin\Debug\netcoreapp3.1\tiet6.runtimeconfig.dev.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\bin\Debug\netcoreapp3.1\tiet6.dll
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\bin\Debug\netcoreapp3.1\tiet6.pdb
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\obj\Debug\netcoreapp3.1\tiet6.csproj.AssemblyReference.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\obj\Debug\netcoreapp3.1\tiet6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\obj\Debug\netcoreapp3.1\tiet6.AssemblyInfoInputs.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\obj\Debug\netcoreapp3.1\tiet6.AssemblyInfo.cs
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\obj\Debug\netcoreapp3.1\tiet6.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\obj\Debug\netcoreapp3.1\tiet6.dll
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\obj\Debug\netcoreapp3.1\tiet6.pdb
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\tiet6\obj\Debug\netcoreapp3.1\tiet6.genruntimeconfig.cache
