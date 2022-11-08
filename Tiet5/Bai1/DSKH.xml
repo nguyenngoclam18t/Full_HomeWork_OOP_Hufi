@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+	<KhoaHoc>
+		<Ma>12DHTh01</Ma>
+		<Ten>NMLT</Ten>
+		<SoTiet>10</SoTiet>
+		<GioHoc>2,4,6</GioHoc>
+		<SoLuongHV>12</SoLuongHV>
+		<TenGV>Nguyễn Ngọc Lâm</TenGV>
+	</KhoaHoc>
+	<KhoaHoc>
+		<Ma>12DHTh02</Ma>
+		<Ten>CTDL va GT</Ten>
+		<SoTiet>14</SoTiet>
+		<GioHoc>3,5,7</GioHoc>
+		<SoLuongHV>10</SoLuongHV>
+		<TenGV>Lương Sơn Bá</TenGV>
+	</KhoaHoc>
+	<KhoaHoc>
+		<Ma>12DHTh03</Ma>
+		<Ten>KTLT</Ten>
+		<SoTiet>15</SoTiet>
+		<GioHoc>7,CN</GioHoc>
+		<SoLuongHV>14</SoLuongHV>
+		<TenGV>chúc Anh Đài</TenGV>
+	</KhoaHoc>
+	<KhoaHoc>
+		<Ma>12DHTh03</Ma>
+		<Ten>OOP</Ten>
+		<SoTiet>13</SoTiet>
+		<GioHoc>2,4,6</GioHoc>
+		<SoLuongHV>19</SoLuongHV>
+		<TenGV>Tôn Ngộ Không</TenGV>
+	</KhoaHoc>
+	<KhoaHoc>
+		<Ma>12DHTh04</Ma>
+		<Ten>Triết học</Ten>
+		<SoTiet>5</SoTiet>
+		<GioHoc>3,5,7</GioHoc>
+		<SoLuongHV>20</SoLuongHV>
+		<TenGV>Nguyễn Ngọc Lâm</TenGV>
+	</KhoaHoc>
+	<KhoaHoc>
+		<Ma>12DHTh04</Ma>
+		<Ten>QP1</Ten>
+		<SoTiet>15</SoTiet>
+		<GioHoc>2,4,6</GioHoc>
+		<SoLuongHV>20</SoLuongHV>
+		<TenGV>Lương Sơn Bạc</TenGV>
+	</KhoaHoc>
+	<KhoaHoc>
+		<Ma>12DHTh05</Ma>
+		<Ten>Toán Rời Rạc</Ten>
+		<SoTiet>30</SoTiet>
+		<GioHoc>3,5,7</GioHoc>
+		<SoLuongHV>12</SoLuongHV>
+		<TenGV>Hoắc Thần Thông</TenGV>
+	</KhoaHoc>
+	<KhoaHoc>
+		<Ma>12DHTh06</Ma>
+		<Ten>CSDL</Ten>
+		<SoTiet>14</SoTiet>
+		<GioHoc>7,CN</GioHoc>
+		<SoLuongHV>13</SoLuongHV>
+		<TenGV>John Cenna</TenGV>
+	</KhoaHoc>
+	<KhoaHoc>
+		<Ma>12DHTh07</Ma>
+		<Ten>Kinh Tế Chính Trị</Ten>
+		<SoTiet>6</SoTiet>
+		<GioHoc>2,4,6</GioHoc>
+		<SoLuongHV>15</SoLuongHV>
+		<TenGV>Bill Gates</TenGV>
+	</KhoaHoc>
+	
+</DanhSach>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+	<ThiSinh>
+		<SBD>001</SBD>
+		<Ho>Nguyễn Ngọc </Ho>
+		<Ten>Lâm</Ten>
+		<NS>2003</NS>
+		<LoaiCC>CCA</LoaiCC>
+		<Ca>1</Ca>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>002</SBD>
+		<Ho>Ngô Bá </Ho>
+		<Ten>Khá</Ten>
+		<NS>2000</NS>
+		<LoaiCC>CCB_Autocab</LoaiCC>
+		<Ca>2</Ca>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>003</SBD>
+		<Ho>Lương Sơn </Ho>
+		<Ten>Bạc</Ten>
+		<NS>1999</NS>
+		<LoaiCC>CCB_Excel</LoaiCC>
+		<Ca>3</Ca>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>004</SBD>
+		<Ho>Lương Sơn </Ho>
+		<Ten>Bá</Ten>
+		<NS>2005</NS>
+		<LoaiCC>CCB_Acces</LoaiCC>
+		<Ca>4</Ca>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>005</SBD>
+		<Ho>Chúc Anh </Ho>
+		<Ten>Đài</Ten>
+		<NS>2002</NS>
+		<LoaiCC>CCA</LoaiCC>
+		<Ca>5</Ca>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>006</SBD>
+		<Ho>Tràn Duy  </Ho>
+		<Ten>Hưng</Ten>
+		<NS>2004</NS>
+		<LoaiCC>CCB_Excel</LoaiCC>
+		<Ca>6</Ca>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>007</SBD>
+		<Ho>Trần Quốc</Ho>
+		<Ten>Toản</Ten>
+		<NS>2000</NS>
+		<LoaiCC>CCA</LoaiCC>
+		<Ca>1</Ca>
+	</ThiSinh>
+</DanhSach>

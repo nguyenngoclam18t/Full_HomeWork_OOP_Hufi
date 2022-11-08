@@ -1,0 +1,14 @@
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\bin\Debug\netcoreapp3.1\Bai1.exe
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\bin\Debug\netcoreapp3.1\Bai1.deps.json
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.json
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\bin\Debug\netcoreapp3.1\Bai1.runtimeconfig.dev.json
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\bin\Debug\netcoreapp3.1\Bai1.dll
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\bin\Debug\netcoreapp3.1\Bai1.pdb
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\obj\Debug\netcoreapp3.1\Bai1.csproj.AssemblyReference.cache
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\obj\Debug\netcoreapp3.1\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfoInputs.cache
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\obj\Debug\netcoreapp3.1\Bai1.AssemblyInfo.cs
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\obj\Debug\netcoreapp3.1\Bai1.csproj.CoreCompileInputs.cache
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\obj\Debug\netcoreapp3.1\Bai1.dll
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\obj\Debug\netcoreapp3.1\Bai1.pdb
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Bai1\obj\Debug\netcoreapp3.1\Bai1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\bin\Debug\netcoreapp3.1\Tiet5.exe
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\bin\Debug\netcoreapp3.1\Tiet5.deps.json
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\bin\Debug\netcoreapp3.1\Tiet5.runtimeconfig.json
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\bin\Debug\netcoreapp3.1\Tiet5.runtimeconfig.dev.json
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\bin\Debug\netcoreapp3.1\Tiet5.dll
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\bin\Debug\netcoreapp3.1\Tiet5.pdb
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\obj\Debug\netcoreapp3.1\Tiet5.csproj.AssemblyReference.cache
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\obj\Debug\netcoreapp3.1\Tiet5.GeneratedMSBuildEditorConfig.editorconfig
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\obj\Debug\netcoreapp3.1\Tiet5.AssemblyInfoInputs.cache
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\obj\Debug\netcoreapp3.1\Tiet5.AssemblyInfo.cs
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\obj\Debug\netcoreapp3.1\Tiet5.csproj.CoreCompileInputs.cache
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\obj\Debug\netcoreapp3.1\Tiet5.dll
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\obj\Debug\netcoreapp3.1\Tiet5.pdb
+D:\học tập\hk4\TH_OOP\BT\Tiet5\Tiet5\obj\Debug\netcoreapp3.1\Tiet5.genruntimeconfig.cache
