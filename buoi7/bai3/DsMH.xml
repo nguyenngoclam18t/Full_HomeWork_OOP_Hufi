@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MonHoc>
+	<MH>
+		<Loai>Mon Ly Thuyet</Loai>
+		<Ma>MH0001</Ma>
+		<Ten>Co So Du Lieu</Ten>
+		<SoTC>3</SoTC>
+		<DiemTL>7</DiemTL>
+		<DiemGK>5</DiemGK>
+		<DiemCK>7</DiemCK>
+	</MH>
+	<MH>
+		<Loai>Mon Thuc Hanh</Loai>
+		<Ma>MH0002</Ma>
+		<Ten>Co So Du Lieu</Ten>
+		<SoTC>3</SoTC>
+		<KT1>7</KT1>
+		<KT2>6</KT2>
+		<KT3>5</KT3>
+		<KT4>8</KT4>
+	</MH>
+	<MH>
+		<Loai>Mon Do An</Loai>
+		<Ma>MH0003</Ma>
+		<Ten>Co So Du Lieu</Ten>
+		<SoTC>3</SoTC>
+		<DiemGVHD>7</DiemGVHD>
+		<DiemGVPB>9</DiemGVPB>
+	</MH>
+</MonHoc>

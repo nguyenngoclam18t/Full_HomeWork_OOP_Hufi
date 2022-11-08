@@ -1,0 +1,15 @@
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\obj\Debug\netcoreapp3.1\bai3.csproj.AssemblyReference.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\obj\Debug\netcoreapp3.1\bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\obj\Debug\netcoreapp3.1\bai3.AssemblyInfoInputs.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\obj\Debug\netcoreapp3.1\bai3.AssemblyInfo.cs
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\obj\Debug\netcoreapp3.1\bai3.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\bin\Debug\netcoreapp3.1\bai3.exe
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\bin\Debug\netcoreapp3.1\bai3.deps.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\bin\Debug\netcoreapp3.1\bai3.runtimeconfig.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\bin\Debug\netcoreapp3.1\bai3.runtimeconfig.dev.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\bin\Debug\netcoreapp3.1\bai3.dll
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\bin\Debug\netcoreapp3.1\bai3.pdb
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\obj\Debug\netcoreapp3.1\bai3.dll
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\obj\Debug\netcoreapp3.1\bai3.pdb
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\obj\Debug\netcoreapp3.1\bai3.genruntimeconfig.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet7\bai3\bin\Debug\netcoreapp3.1\DsMH.xml
