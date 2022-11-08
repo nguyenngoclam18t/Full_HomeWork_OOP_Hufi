@@ -1,0 +1,4 @@
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\bai1\obj\Debug\netcoreapp3.1\bai1,2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\bai1\obj\Debug\netcoreapp3.1\bai1,2.AssemblyInfoInputs.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\bai1\obj\Debug\netcoreapp3.1\bai1,2.AssemblyInfo.cs
+D:\Hoc_Tap\hk4\TH_OOP\BT\tiet6\bai1\obj\Debug\netcoreapp3.1\bai1,2.csproj.CoreCompileInputs.cache
