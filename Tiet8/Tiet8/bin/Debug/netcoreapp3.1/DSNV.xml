@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+	<NhanVien>
+		<CTY>ABC</CTY>
+		<LoaiNV>NVSX</LoaiNV>
+		<Ma>NV01</Ma>
+		<Ten>Nguyễn Ngọc Lâm</Ten>
+		<NamSinh>2003</NamSinh>
+		<GioiTinh>Nam</GioiTinh>
+		<HeSoLuong>5</HeSoLuong>
+		<NamVaoLam>2010</NamVaoLam>
+		<Nghi>2</Nghi>
+	</NhanVien>
+	<NhanVien>
+		<CTY>ABC</CTY>
+		<LoaiNV>NVKD</LoaiNV>
+		<Ma>NV02</Ma>
+		<Ten>Nguyễn Linh Chi</Ten>
+		<NamSinh>2002</NamSinh>
+		<GioiTinh>Nu</GioiTinh>
+		<HeSoLuong>5</HeSoLuong>
+		<NamVaoLam>2015</NamVaoLam>
+		<DSTT>100</DSTT>
+		<DSBH>200</DSBH>
+	</NhanVien>
+	<NhanVien>
+		<CTY>ABC</CTY>
+		<LoaiNV>CBQL</LoaiNV>
+		<Ma>NV03</Ma>
+		<Ten>Lương Sơn Bá</Ten>
+		<NamSinh>2001</NamSinh>
+		<GioiTinh>Nam</GioiTinh>
+		<HeSoLuong>1,2</HeSoLuong>
+		<NamVaoLam>2017</NamVaoLam>
+		<ChucVu>Giám đốc</ChucVu>
+		<Heso>5</Heso>
+	</NhanVien>
+	<NhanVien>
+		<CTY>BCD</CTY>
+		<Ma>NV04</Ma>
+		<Ten>Chúc Anh Đài</Ten>
+		<TongTien>100</TongTien>
+	</NhanVien>
+	<NhanVien>
+		<CTY>BCD</CTY>
+		<Ma>NV05</Ma>
+		<Ten>Lương Sơn Bạc</Ten>
+		<TongTien>200000</TongTien>
+	</NhanVien>
+</DanhSach>
