@@ -1,0 +1,28 @@
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.exe
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.deps.json
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.runtimeconfig.json
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.runtimeconfig.dev.json
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.dll
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.pdb
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.csproj.AssemblyReference.cache
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.AssemblyInfoInputs.cache
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.AssemblyInfo.cs
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.csproj.CoreCompileInputs.cache
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.dll
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.pdb
+D:\học tập\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.genruntimeconfig.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.csproj.AssemblyReference.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.AssemblyInfoInputs.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.AssemblyInfo.cs
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.dll
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.pdb
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.exe
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.deps.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.runtimeconfig.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.runtimeconfig.dev.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.dll
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\bin\Debug\netcoreapp3.1\Buoi1.pdb
+D:\Hoc_Tap\hk4\TH_OOP\BT\Buoi1\Buoi1\obj\Debug\netcoreapp3.1\Buoi1.genruntimeconfig.cache

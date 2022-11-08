@@ -1,0 +1,28 @@
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.csproj.AssemblyReference.cache
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.GeneratedMSBuildEditorConfig.editorconfig
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.AssemblyInfoInputs.cache
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.AssemblyInfo.cs
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.csproj.CoreCompileInputs.cache
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.exe
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.deps.json
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.runtimeconfig.json
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.runtimeconfig.dev.json
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.dll
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.pdb
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.dll
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.pdb
+D:\học tập\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.genruntimeconfig.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.exe
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.deps.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.runtimeconfig.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.runtimeconfig.dev.json
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.dll
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\bin\Debug\netcoreapp3.1\Tiet2.pdb
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.csproj.AssemblyReference.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.AssemblyInfoInputs.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.AssemblyInfo.cs
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.csproj.CoreCompileInputs.cache
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.dll
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.pdb
+D:\Hoc_Tap\hk4\TH_OOP\BT\Tiet2\Tiet2\obj\Debug\netcoreapp3.1\Tiet2.genruntimeconfig.cache
