@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+	<NhanVien>
+		<MaSo>001</MaSo>
+		<Name>Nguyễn Ngọc Lâm</Name>
+		<PhongBan>IT</PhongBan>
+		<ChucVu>Lãnh đạo</ChucVu>
+		<HeSoLuong>5</HeSoLuong>
+		<SoNgayLamViec>27</SoNgayLamViec>
+		<ThamNienCongTac>10</ThamNienCongTac>
+	</NhanVien>
+	<NhanVien>
+		<MaSo>002</MaSo>
+		<Name>Nguyễn Linh Chi</Name>
+		<PhongBan>IT</PhongBan>
+		<ChucVu>Lãnh đạo</ChucVu>
+		<HeSoLuong>4</HeSoLuong>
+		<SoNgayLamViec>20</SoNgayLamViec>
+		<ThamNienCongTac>3</ThamNienCongTac>
+	</NhanVien>
+	<NhanVien>
+		<MaSo>003</MaSo>
+		<Name>Nguyễn Phong Ba</Name>
+		<PhongBan>Tài Vụ</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>4.5</HeSoLuong>
+		<SoNgayLamViec>9</SoNgayLamViec>
+		<ThamNienCongTac>3</ThamNienCongTac>
+	</NhanVien>
+	<NhanVien>
+		<MaSo>004</MaSo>
+		<Name>Ngô Bá Khá</Name>
+		<PhongBan>Tài Vụ</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>4.6</HeSoLuong>
+		<SoNgayLamViec>8</SoNgayLamViec>
+		<ThamNienCongTac>1</ThamNienCongTac>
+	</NhanVien>
+	<NhanVien>
+		<MaSo>005</MaSo>
+		<Name>Huấn Rose</Name>
+		<PhongBan>Marketing</PhongBan>
+		<ChucVu>Lãnh đạo</ChucVu>
+		<HeSoLuong>4.8</HeSoLuong>
+		<SoNgayLamViec>20</SoNgayLamViec>
+		<ThamNienCongTac>3</ThamNienCongTac>
+	</NhanVien>
+	<NhanVien>
+		<MaSo>006</MaSo>
+		<Name>Lương Sơn Bạc</Name>
+		<PhongBan>Tài vụ</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>4.3</HeSoLuong>
+		<SoNgayLamViec>23</SoNgayLamViec>
+		<ThamNienCongTac>3</ThamNienCongTac>
+	</NhanVien>
+	<NhanVien>
+		<MaSo>007</MaSo>
+		<Name>Lương Sơn Bá</Name>
+		<PhongBan>Help desk</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>4.3</HeSoLuong>
+		<SoNgayLamViec>23</SoNgayLamViec>
+		<ThamNienCongTac>2</ThamNienCongTac>
+	</NhanVien>
+	<NhanVien>
+		<MaSo>008</MaSo>
+		<Name>Trúc Anh Đài</Name>
+		<PhongBan>Manager</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>4.5</HeSoLuong>
+		<SoNgayLamViec>27</SoNgayLamViec>
+		<ThamNienCongTac>2</ThamNienCongTac>
+	</NhanVien>
+	<NhanVien>
+		<MaSo>009</MaSo>
+		<Name>Tôn Ngộ Không</Name>
+		<PhongBan>Manager</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>4.9</HeSoLuong>
+		<SoNgayLamViec>25</SoNgayLamViec>
+		<ThamNienCongTac>10</ThamNienCongTac>
+	</NhanVien>
+	<NhanVien>
+		<MaSo>010</MaSo>
+		<Name>Mark Zuckerberg</Name>
+		<PhongBan>Tài Vụ</PhongBan>
+		<ChucVu>Nhân viên</ChucVu>
+		<HeSoLuong>4.9</HeSoLuong>
+		<SoNgayLamViec>25</SoNgayLamViec>
+		<ThamNienCongTac>7</ThamNienCongTac>
+	</NhanVien>
+</DanhSach>

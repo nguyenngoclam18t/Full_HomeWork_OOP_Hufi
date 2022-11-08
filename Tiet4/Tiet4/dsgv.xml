@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+	<GV>
+		<Hoten>Nguyễn Ngọc Lâm</Hoten>
+		<SoNhom>1</SoNhom>
+	</GV>
+	<GV>
+		<Hoten>Hồ Quang Hiếu</Hoten>
+		<SoNhom>2</SoNhom>
+	</GV>
+	<GV>
+		<Hoten>Lê Đại Dương</Hoten>
+		<SoNhom>3</SoNhom>
+	</GV>
+	<GV>
+		<Hoten>Nguyễn Trung Trực</Hoten>
+		<SoNhom>1</SoNhom>
+	</GV>
+</DanhSach>

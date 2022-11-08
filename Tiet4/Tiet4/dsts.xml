@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DanhSach>
+	<ThiSinh>
+		<SBD>001</SBD>
+		<HoTen>Nguyễn Ngọc Lâm</HoTen>
+		<NamSinh>2003</NamSinh>
+		<Toan>8</Toan>
+		<Van>9</Van>
+		<Anh>8.5</Anh>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>002</SBD>
+		<HoTen>Nguyễn Sơn Tùng</HoTen>
+		<NamSinh>2000</NamSinh>
+		<Toan>5</Toan>
+		<Van>5.6</Van>
+		<Anh>7.5</Anh>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>003</SBD>
+		<HoTen>Nguyễn Cardi B</HoTen>
+		<NamSinh>1999</NamSinh>
+		<Toan>7</Toan>
+		<Van>8.4</Van>
+		<Anh>5</Anh>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>004</SBD>
+		<HoTen>Lương Sơn Bạc</HoTen>
+		<NamSinh>2004</NamSinh>
+		<Toan>4</Toan>
+		<Van>9</Van>
+		<Anh>2</Anh>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>005</SBD>
+		<HoTen>Hoa Quả Sơn</HoTen>
+		<NamSinh>2001</NamSinh>
+		<Toan>6</Toan>
+		<Van>6</Van>
+		<Anh>7</Anh>
+	</ThiSinh>
+	//
+	<ThiSinh>
+		<SBD>006</SBD>
+		<HoTen>Phật tổ</HoTen>
+		<NamSinh>1991</NamSinh>
+		<Toan>2</Toan>
+		<Van>3</Van>
+		<Anh>5</Anh>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>007</SBD>
+		<HoTen>Tề Thiên Đại Thánh</HoTen>
+		<NamSinh>2010</NamSinh>
+		<Toan>7</Toan>
+		<Van>9</Van>
+		<Anh>6</Anh>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>008</SBD>
+		<HoTen>Michanel Jackson</HoTen>
+		<NamSinh>1998</NamSinh>
+		<Toan>7</Toan>
+		<Van>10</Van>
+		<Anh>5</Anh>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>009</SBD>
+		<HoTen>Đường Tăng</HoTen>
+		<NamSinh>1994</NamSinh>
+		<Toan>7</Toan>
+		<Van>3</Van>
+		<Anh>8</Anh>
+	</ThiSinh>
+	<ThiSinh>
+		<SBD>010</SBD>
+		<HoTen>Trư Bát Giới</HoTen>
+		<NamSinh>1993</NamSinh>
+		<Toan>4</Toan>
+		<Van>3</Van>
+		<Anh>2</Anh>
+	</ThiSinh>
+</DanhSach>
